@@ -1,3 +1,3 @@
 # HandsMenThreadsProject
-Link fro Project Demo video:
+Link for Project Demo video:
 
